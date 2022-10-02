@@ -1,0 +1,11 @@
+table, td {
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px black solid;
+    padding: 5px;
+}
+
+caption {
+    margin: 20px 0 5px;
+    font-weight: bold;
+}
